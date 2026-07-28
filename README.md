@@ -1,21 +1,26 @@
 <div align="center">
 
-<p align="center">
-  <img width="100%" src="./assets/aditya_profile_banner.png" alt="Aditya Ranjan Swain Banner">
-</p>
+  <p align="center">
+    <img width="100%" src="./assets/aditya_profile_banner.png" alt="Aditya Ranjan Swain - 16:9 Profile Banner">
+  </p>
 
-# 👨‍💻 ADITYA RANJAN SWAIN
+  <br/>
 
-### **Full-Stack Software Engineer & AI/ML Specialist**
+  <!-- Dynamic Typing Animation -->
+  <a href="https://github.com/Aditya1791">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;AI%2FML+%26+Computer+Vision+Specialist;MERN+Stack+%2B+Python%2FFlask+Developer;Building+Intelligent+Real-Time+Web+Systems" alt="Typing SVG" />
+  </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-ranjan-swain)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya1791)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swainaditya85@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Bhubaneswar%2C%20India-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Bhubaneswar,India)
+  <br/><br/>
 
----
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-ranjan-swain)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya1791)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swainaditya85@gmail.com)
+  [![Location](https://img.shields.io/badge/Location-Bhubaneswar%2C%20India-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Bhubaneswar,India)
 
-> *Merging robust full-stack architecture (MERN & Python/Flask) with cutting-edge Deep Learning & Computer Vision to craft intelligent, real-time, production-grade applications.*
+  <br/><br/>
+
+  > 💡 *Merging robust full-stack architecture (MERN & Python/Flask) with cutting-edge Deep Learning & Computer Vision to craft intelligent, real-time, production-grade applications.*
 
 </div>
 
@@ -183,6 +188,21 @@ aditya_profile = {
     ]
 }
 ```
+
+---
+
+## 📊 GitHub Analytics & Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya1791&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="Aditya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya1791&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Aditya's Most Used Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya1791&theme=tokyonight&hide_border=true" alt="Aditya's GitHub Streak" />
+</div>
 
 ---
 
