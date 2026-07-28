@@ -23,7 +23,7 @@
 
 ## 🌟 Executive Summary
 
-Final-year **B.Tech Computer Science & Engineering** student at **Trident Academy of Technology** (Graduating May 2026) and alumnus of **Sainik School Bhubaneswar**. 
+**B.Tech Computer Science & Engineering** graduate from **Trident Academy of Technology** (Graduated May 2026) and alumnus of **Sainik School Bhubaneswar**. 
 
 With **2 months of hands-on AI/ML internship experience** across **CTTC MSME** and **1stop.ai**, alongside end-to-end full-stack software development skills, I bridge the gap between intelligent deep learning models and scalable web platforms.
 
@@ -164,7 +164,7 @@ With **2 months of hands-on AI/ML internship experience** across **CTTC MSME** a
 
 ```python
 aditya_profile = {
-    "current_status": "Final Year B.Tech CSE Student (Graduating May 2026)",
+    "current_status": "B.Tech CSE Graduate (Completed May 2026)",
     "seeking_roles": [
         "Full-Stack Developer", 
         "AI/ML Engineer", 
