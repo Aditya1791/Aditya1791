@@ -41,13 +41,13 @@ With **2 months of hands-on AI/ML internship experience** across **CTTC MSME** a
 ## 💼 Internship Experience
 
 ### 🔬 **AI/ML Engineer Intern** | *CTTC MSME, Bhubaneswar*
-`Jan 2025 – Jun 2025`
+`Jul 2025 – Aug 2025`
 - **Real-Time Attendance System**: Engineered an operational face recognition attendance system using **CNNs, TensorFlow, Keras, and OpenCV**, directly integrated with a **MySQL** database for live automated logging.
 - **Custom Object Detection**: Built object detection pipelines using transfer learning and custom data augmentation techniques (rotations, brightness shifts, flipping) to maximize model generalization.
 - **Production Integration**: Collaborated in a 4-member cross-functional team to embed deep learning models into desktop client software for live operational workflows.
 
 ### 🤖 **AI/ML Engineer Intern** | *1stop.ai (Remote)*
-`Jul 2025 – Dec 2025`
+`Jul 2025 – Sep 2025`
 - **NLP Text Classification**: Designed a multi-class NLP pipeline featuring tokenization, TF-IDF vectorization, word embeddings, and deep neural network classifiers.
 - **Landmark & Image Recognition**: Developed end-to-end CNN image classification models in TensorFlow/Keras from raw data ingestion to evaluation (Precision, Recall, F1-Score).
 - **ML Pipeline Optimization**: Implemented regularization strategies (Dropout, Batch Normalization, Early Stopping) to minimize train-validation variance.
