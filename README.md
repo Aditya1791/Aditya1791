@@ -151,9 +151,9 @@ With **2 months of hands-on AI/ML internship experience** across **CTTC MSME** a
 
 | Degree / Course | Institution | Details / Metrics | Year |
 | :--- | :--- | :--- | :--- |
-| **B.Tech in Computer Science & Engineering** | Trident Academy of Technology, Bhubaneswar | CGPA: **8.0 / 10** | 2022 – 2026 |
-| **Class XII (CBSE)** | Sainik School Bhubaneswar | Physics, Chemistry, Math, Computer Science | 2020 – 2022 |
-| **Class X (CBSE)** | Sainik School Bhubaneswar | Mathematics, Computer Science, Science | 2018 – 2020 |
+| **B.Tech in Computer Science & Engineering** | Trident Academy of Technology, Bhubaneswar | CGPA: **6.8 / 10** | 2022 – 2026 |
+| **Class XII (CBSE)** | Sainik School Bhubaneswar | Physics, Chemistry, Mathematics, Computer Science | 2020 – 2022 |
+| **Class X (CBSE)** | Sainik School Bhubaneswar | Mathematics, Computer Science, Science(P.C.B.) | 2018 – 2020 |
 
 ---
 
@@ -213,6 +213,7 @@ aditya_profile = {
 [![Email](https://img.shields.io/badge/Email-swainaditya85%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swainaditya85@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Ranjan%20Swain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-ranjan-swain)
 [![GitHub](https://img.shields.io/badge/GitHub-Aditya1791-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya1791)
+[![X](https://img.shields.io/badge/Twitter-Monkey_D_Adi-181717?style=for-the-badge&logo=twitter&logoColor=black)](https://x.com/Monkey_D_Adi)
 
 *"Building robust, intelligent systems that connect seamless user interfaces with deep learning models."*
 
