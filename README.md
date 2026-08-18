@@ -216,6 +216,7 @@ aditya_profile = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Ranjan%20Swain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-ranjan-swain)
 [![GitHub](https://img.shields.io/badge/GitHub-Aditya1791-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya1791)
 [![X](https://img.shields.io/badge/Twitter-Monkey_D_Adi-181717?style=for-the-badge&logo=twitter&logoColor=black)](https://x.com/Monkey_D_Adi)
+[![Facebook](https://img.shields.io/badge/Facebook-Aditya1791-181717?style=for-the-badge&logo=facebook&logoColor=black)]([https://x.com/Monkey_D_Adi](https://www.facebook.com/Aditya1791))
 
 *"Building robust, intelligent systems that connect seamless user interfaces with deep learning models."*
 
